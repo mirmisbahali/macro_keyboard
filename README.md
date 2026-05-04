@@ -6,11 +6,13 @@ A custom 6-key macro keyboard built from scratch custom written bare-metal STM32
 
 ---
 
-<!-- Add schematic screenshot here once complete -->
-<!-- ![Schematic](docs/schematic.png) -->
+![PCB](./Electronics/img/stm32_macro_keyboard.png)
 
-<!-- Add PCB render here once routed -->
-<!-- ![PCB](docs/pcb_render.png) -->
+*PCB layout and routing in progress.*
+
+![Schematic](./Electronics/img/stm32_macro_keyboard.svg)
+
+*Wiring is completed — schematic still needs to be made neat and tidy.*
 
 <!-- Add photo of assembled board here -->
 <!-- ![Board](docs/board.jpg) -->
