@@ -51,3 +51,6 @@ _build/
 *.a
 *.elf
 *.map
+
+# ── STM32CubeIDE workspace metadata (machine-local, regenerated) ─────────────
+**/.metadata/
